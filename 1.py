@@ -1,1 +1,1 @@
-1
+print('tahks for all')
