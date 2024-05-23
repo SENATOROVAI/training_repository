@@ -1,1 +1,1 @@
-print('tahks for all')   # Tatiana, I see you should correct the word "Thanks"
+print('thanks for all')  
